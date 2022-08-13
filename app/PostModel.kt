@@ -1,0 +1,1 @@
+class PostModel : ArrayList<PostModelItem>()
